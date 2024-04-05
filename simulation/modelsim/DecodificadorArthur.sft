@@ -1,0 +1,5 @@
+set tool_name "ModelSim-Altera (Verilog)"
+set corner_file_list {
+	{{"Slow Model"} {DecodificadorArthur.vo DecodificadorArthur_v.sdo}}
+	{{"Fast Model"} {DecodificadorArthur_fast.vo DecodificadorArthur_v_fast.sdo}}
+}

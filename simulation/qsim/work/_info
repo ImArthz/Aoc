@@ -1,0 +1,165 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Aluno\Desktop\arthur\arthur\simulation\qsim
+vFull_Adder_1_bit
+Z1 IUZ9Z4d8@5m1GW[NDlKeWl2
+Z2 VjHNB3oMifd24^L]@kO@K30
+Z3 dC:\Users\Aluno\Desktop\arthur\arthur\simulation\qsim
+Z4 w1712347396
+Z5 8DecodificadorArthur.vo
+Z6 FDecodificadorArthur.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|DecodificadorArthur.vo|
+Z9 o-work work -O0
+Z10 n@full_@adder_1_bit
+Z11 !s100 Z4SYhGELB1c0`R]R_I7PJ2
+Z12 !s108 1712347399.336000
+Z13 !s107 DecodificadorArthur.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vFull_Adder_1_bit_vlg_check_tst
+Z14 IOPc6KGY`dNP24P]dX@CUE1
+Z15 Vz<OmUS`=>23QTLl]5]aj;2
+R3
+R4
+Z16 8DecodificadorArthur.vt
+Z17 FDecodificadorArthur.vt
+L0 61
+R7
+r1
+31
+Z18 !s108 1712347399.446000
+Z19 !s107 DecodificadorArthur.vt|
+Z20 !s90 -work|work|DecodificadorArthur.vt|
+R9
+Z21 n@full_@adder_1_bit_vlg_check_tst
+Z22 !s100 oa2Xnz2TKO[cE6d1T25hI2
+!i10b 1
+!s85 0
+!s101 -O0
+vFull_Adder_1_bit_vlg_sample_tst
+Z23 Ig`MK`RI;hkz?AQS1JbJM62
+Z24 VW7bO;=CioaE@M<UT3n5PT3
+R3
+R4
+R16
+R17
+L0 29
+R7
+r1
+31
+R18
+R19
+R20
+R9
+Z25 n@full_@adder_1_bit_vlg_sample_tst
+Z26 !s100 =@Q:AAA^5fjClQ4OJ00mA2
+!i10b 1
+!s85 0
+!s101 -O0
+vFull_Adder_1_bit_vlg_vec_tst
+Z27 IXEbk^N1a>f7M_[`^_ZkHi2
+Z28 V@ohU=EG>K8WXb2K[niUT<2
+R3
+R4
+R16
+R17
+Z29 L0 183
+R7
+r1
+31
+R18
+R19
+R20
+R9
+Z30 n@full_@adder_1_bit_vlg_vec_tst
+Z31 !s100 l<7ah@Gcc_Roe8n>D=bgY0
+!i10b 1
+!s85 0
+!s101 -O0
+vUla_1bit
+Z32 IK4[b;jWgoKCiNI;Jc=0d[0
+Z33 VJj]JWV`_HLcJP[QVbl<Q[0
+R3
+Z34 w1712348378
+R5
+R6
+L0 31
+R7
+r1
+31
+R8
+R9
+Z35 n@ula_1bit
+!i10b 1
+Z36 !s100 eV1bbzIgnO:l9i0_d7JNC0
+!s85 0
+Z37 !s108 1712348379.170000
+R13
+!s101 -O0
+vUla_1bit_vlg_check_tst
+!i10b 1
+!s100 lT@^95;1=2:<^2e>ZkmY]0
+I1=Y?zO6ko3=Nf]QB<9NU^2
+VfBmHE@A__fk6OJV6=J:d>0
+R3
+Z38 w1712348377
+R16
+R17
+L0 71
+R7
+r1
+!s85 0
+31
+Z39 !s108 1712348379.294000
+Z40 !s107 DecodificadorArthur.vt|
+R20
+!s101 -O0
+R9
+n@ula_1bit_vlg_check_tst
+vUla_1bit_vlg_sample_tst
+!i10b 1
+!s100 YNe28?[V[@c;L=>HA3z5:1
+Iz8OKjL>E`dk5gV5M1W4861
+V68nY09gTUnMLOGBShFl4[1
+R3
+R38
+R16
+R17
+L0 29
+R7
+r1
+!s85 0
+31
+R39
+R40
+R20
+!s101 -O0
+R9
+n@ula_1bit_vlg_sample_tst
+vUla_1bit_vlg_vec_tst
+!i10b 1
+!s100 R^[GG0zHc@Y9L7M2Nb[`[1
+ICA9BiHSbNifO@07kBXYC70
+V`UgTSoIlhS0DDJ[TnJYZ`1
+R3
+R38
+R16
+R17
+L0 195
+R7
+r1
+!s85 0
+31
+R39
+R40
+R20
+!s101 -O0
+R9
+n@ula_1bit_vlg_vec_tst
